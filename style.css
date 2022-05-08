@@ -1,0 +1,90 @@
+body{
+    background-color: beige;
+}
+h4.qq{
+    display: inline-block;
+    vertical-align: top;
+    background: #3e919d;
+    color: #fff;
+    font: 16px/19px "Montserrat", Arial, Helvetica, sans-serif;
+    padding: 6px 9px 5px;
+    margin: 0 0 14px;
+}
+h3{
+    margin: 0 0 6px;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: bold;
+    color: #414042;
+}
+p.gender{
+    margin: 0 0 6px;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: bold;
+    color: #414042;
+}
+input.weight{
+    width: 85px;
+    border: solid #050708;
+    border-width: 2px 2px 2px 2px ;
+    background: #fff;
+    padding: 7px 15px;
+    height: 30px;
+    font-size: 26px;
+}
+label{
+    margin: 0 0 6px;
+    font-size: 25px;
+    line-height: 24px;
+    font-weight: bold;
+    color: #414042;
+}
+img.age{
+    border: solid #acdce0;
+    border-width: 15px 10px 70px 10px;
+    border-radius: 10px;
+}
+img.work{
+    border: solid #acdce0;
+    border-width: 10px 30px 85px 30px;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+img.gender{
+    border: solid #acdce0;
+    border-width: 15px 10px 70px 10px;
+    border-radius: 10px;
+}
+label.age{
+    margin: 0;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #414042;
+}
+input.work{
+    width: 1.2em;
+    height: 1.2em;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color: #ed7954;
+}
+a{
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+}h4.work{
+    display: block;
+    margin-block-start: -4.5em;
+    margin-inline-start: 28px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p.gender{
+    display: block;
+    margin-block-start: -2.5em;
+}

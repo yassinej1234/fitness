@@ -1,0 +1,52 @@
+body{
+    background-color: beige;
+}
+ol{
+    list-style-type: disc;
+    margin-left: 60px;
+    
+}
+ol.img{
+    list-style-type: none;
+    margin-left: 60px;
+}
+ol.p{
+    list-style-type:none;
+}
+img.ecto{
+    margin-top: 20px;
+    
+}
+h2.ecto{
+    margin-left: 130px;
+    font-weight: bold;
+    color: #0a3253;
+}
+p.ecto{
+    font-weight: bold;
+    font-size: 17px;
+    color: rgb(49, 46, 46);
+    
+}
+h3{
+    margin-left: 100px;
+    font-weight: bold;
+    color: #222;
+    text-decoration: underline ;
+}
+h3.red{
+    margin-left: 100px;
+    font-weight: bold;
+    color: rgb(52, 1, 1);
+}
+img.body{
+    width: 100%;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color: #ed7954;
+}
+a{
+    color: aliceblue;
+}
